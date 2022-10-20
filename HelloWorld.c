@@ -2,4 +2,6 @@
 void main(){
    printf("Hello world!\n");
    printf("This is C\n");
+   int x = 10;
+
 }
